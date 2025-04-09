@@ -18,6 +18,15 @@ OmniVision is a comprehensive network reconnaissance and security assessment too
 - **Progress Tracking**: Visual feedback for long-running operations
 - **Parallel Processing**: Configurable concurrent operations for faster scanning
 
+
+
+## Support This Project
+
+If you enjoy using this app, why not [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://buymeacoffee.com/mbelsis)
+
+
+
+
 ## File Structure and Modules
 
 ### Main Script Files
